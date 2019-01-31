@@ -1,0 +1,1 @@
+Make sure to do a yarn on the on main directory and the client directory
